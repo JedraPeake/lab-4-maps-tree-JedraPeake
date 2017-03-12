@@ -28,7 +28,6 @@ public abstract class BinaryNode<E, N extends BinaryNode<E, N>> implements Tree.
         return null;
     }
 
-
     @Override
     public int height() {
         return 0;
